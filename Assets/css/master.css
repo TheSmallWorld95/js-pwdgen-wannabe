@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: #00F;
+}
+
+div {
+  text-align: center;
+}
+
+h3 {
+  padding: 40px;
+  font-size: 30px;
+}
+
+#Nome, #Cognome {
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: 30px;
+}
+
+h4 {
+  text-align: left;
+  padding: 20px;
+  font-size: 20px;
+}
